@@ -17,6 +17,7 @@ Thank you for visiting my profile. I look forward to sharing my learning journey
 
 ![React](https://img.icons8.com/?size=60&id=asWSSTBrDlTW&format=png&color=000000)
 ![Nodejs](https://img.icons8.com/?size=60&id=hsPbhkOH4FMe&format=png&color=000000)
+![Expressjs](https://img.icons8.com/?size=60&id=9Gfx4Dfxl0JK&format=png&color=000000)
 ![JavaScript](https://img.icons8.com/?size=60&id=PXTY4q2Sq2lG&format=png&color=000000)
 ![Typescript](https://img.icons8.com/?size=60&id=uJM6fQYqDaZK&format=png&color=000000)
 ![Prisma ORM](https://img.icons8.com/?size=60&id=zJh5Gyrd6ZKu&format=png&color=000000)
@@ -24,5 +25,14 @@ Thank you for visiting my profile. I look forward to sharing my learning journey
 
 **Technologies I'm learning**
 
+![MongoDB](https://img.icons8.com/?size=80&id=74402&format=png&color=000000)
+![Mongoose](https://img.icons8.com/?size=80&id=gKfcEStXI1Hm&format=png&color=000000)
 ![Astro](https://img.icons8.com/?size=80&id=kXuRhjMIeKhk&format=png&color=000000)
 <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="Go" style="width:100px;">
+
+**Technologies I study as a hobby**
+
+![Rust](https://img.icons8.com/?size=80&id=t7vIvDXazOGO&format=png&color=000000)
+![C++](https://img.icons8.com/?size=80&id=3OegdP53Lprn&format=png&color=000000)
+![Wails](https://pbs.twimg.com/profile_images/1409326545051680768/tpIF2Q4H_80x80.png)
+![Arduino](https://img.icons8.com/?size=80&id=13444&format=png&color=000000)
