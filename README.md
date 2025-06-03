@@ -1,10 +1,11 @@
-Hello 👋! I'm **Darkhope22**, a passionate Software Development enthusiast 💻.
+Hello 👋! I'm **Yared** aka *Darkhope22*, a passionate Software Developer 💻.
 
-My journey began with **C++** classes in school, and since then, I’ve dived into this fascinating world, primarily exploring web technologies.
+My journey in this amazing world started with **C++** classes at school, and since then, I've fallen in love with this fascinating world, focusing mainly on web technologies (although I don't run away from other platforms).
 
-I enjoy tackling  challenges  and uncovering the  tricks ,  quirks , and  limitations  that each of these technologies has to offer.
+I enjoy facing challenges and discovering all kinds of tricks, peculiarities and limits that technology has inside.
 
-I dedicate my free time to improving my skills and abilities in this field. Frankly, I believe this hobby has  completely  transformed my perspective on the world around us.
+I focus part of my free time to improve my skills and abilities in this field. Frankly, I think this hobby has completely transformed my perspective of the world around us. And I love it!
+
 
 **Recent Projects**
 
@@ -14,7 +15,7 @@ I dedicate my free time to improving my skills and abilities in this field. Fran
 
     - *[Website](https://good-recipes-vert.vercel.app/)*
 
-**My Favorite Stack**
+**My favorite technologies**
 
 ![Astro](https://img.icons8.com/?size=30&id=lckHFUP7nJhG&format=png&color=000000)
 ![React](https://img.icons8.com/?size=30&id=asWSSTBrDlTW&format=png&color=000000)
